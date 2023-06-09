@@ -1,0 +1,15 @@
+{
+    "name": "SVG-Logo",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "directories": {
+        "example": "example",
+        "lib": "lib"
+    },
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    }
+
+}
