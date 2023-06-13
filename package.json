@@ -10,6 +10,20 @@
     "scripts": {
         "start": "node index.js",
         "test": "jest"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/BryceedThompson/SVG-Logo"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/BryceedThompson/SVG-Logo/issues"
+    },
+    "homepage": "https://github.com/BryceedThompson/SVG-Logo/blob/main/README.md",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "jest":"^24.9.0"
     }
 
 }
